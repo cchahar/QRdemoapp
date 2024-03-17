@@ -10,7 +10,7 @@ def decode_qr_code(image):
 
 st.title("QR Code Scanner")
 
-cap = cv2.VideoCapture(1)
+cap = cv2.VideoCapture(0)
 
 cap.set(3, 640)
 cap.set(4, 480)
