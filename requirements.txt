@@ -1,3 +1,8 @@
-opencv-python-headless
-pyzbar
-streamlit
+matplotlib==3.6.2
+matplotlib==3.8.2
+numpy==1.23.5
+opencv_python==4.6.0.66
+opencv_python==4.8.1.78
+pytesseract==0.3.10
+pyzbar==0.1.9
+streamlit==1.32.2
